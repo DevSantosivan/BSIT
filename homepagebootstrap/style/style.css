@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar-brand{
+    text-decoration: none !important;
+    list-style: none !important;
+    font-weight: 800 !important;
+}
